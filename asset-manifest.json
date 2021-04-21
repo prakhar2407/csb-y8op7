@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://prakhar2407.github.io/csb-y8op7/static/js/main.1a1a733a.chunk.js",
+    "main.js.map": "https://prakhar2407.github.io/csb-y8op7/static/js/main.1a1a733a.chunk.js.map",
+    "runtime-main.js": "https://prakhar2407.github.io/csb-y8op7/static/js/runtime-main.302656be.js",
+    "runtime-main.js.map": "https://prakhar2407.github.io/csb-y8op7/static/js/runtime-main.302656be.js.map",
+    "static/js/2.7bd492ba.chunk.js": "https://prakhar2407.github.io/csb-y8op7/static/js/2.7bd492ba.chunk.js",
+    "static/js/2.7bd492ba.chunk.js.map": "https://prakhar2407.github.io/csb-y8op7/static/js/2.7bd492ba.chunk.js.map",
+    "index.html": "https://prakhar2407.github.io/csb-y8op7/index.html",
+    "precache-manifest.6ce79c38d64843fcb8c5774f127bfd35.js": "https://prakhar2407.github.io/csb-y8op7/precache-manifest.6ce79c38d64843fcb8c5774f127bfd35.js",
+    "service-worker.js": "https://prakhar2407.github.io/csb-y8op7/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.302656be.js",
+    "static/js/2.7bd492ba.chunk.js",
+    "static/js/main.1a1a733a.chunk.js"
+  ]
+}
